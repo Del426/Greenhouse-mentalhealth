@@ -8,6 +8,7 @@ wn = turtle.Screen()
 wn.setup(400,400)   
 wn.bgpic("test.gif")
 wn.mainloop()
+wn.pack()
 
 
 #interative button
