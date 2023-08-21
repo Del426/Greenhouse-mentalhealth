@@ -27,9 +27,8 @@ def Close():
     exit()
 
 def Change():
-    bg = PhotoImage( file = "starter.gif")
-    lable3 = Label(root, image = bg)
-    lable3.place(x = 0, y = 0)
+    import PlantAnimation
+    
 
 
 # Add buttons
