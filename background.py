@@ -1,5 +1,6 @@
 # Import module 
 from tkinter import *
+import tkinter as tk
 
 # Create object 
 root = Tk()
@@ -27,8 +28,8 @@ def Close():
     exit()
 
 def Change():
-    import PlantAnimation
-    
+    #i have no idea how to link animation to this
+    print("IDK")
 
 
 # Add buttons
